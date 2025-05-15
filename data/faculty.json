@@ -1,0 +1,83 @@
+{
+  "faculty-of-science": [
+    "Computer Science",
+    "Biochemistry",
+    "Microbiology",
+    "Industrial Chemistry",
+    "Mathematics",
+    "Physics",
+    "Statistics",
+    "Geology",
+    "Botany",
+    "Zoology"
+  ],
+  "faculty-of-education": [
+    "Science Education",
+    "Educational Psychology",
+    "Guidance and Counselling",
+    "Educational Technology",
+    "Curriculum Studies",
+    "Educational Management",
+    "Adult Education",
+    "Early Childhood Education"
+  ],
+  "faculty-of-engineering": [
+    "Electrical and Electronics Engineering",
+    "Mechanical Engineering",
+    "Civil Engineering",
+    "Chemical Engineering",
+    "Computer Engineering",
+    "Agricultural and Biosystems Engineering",
+    "Metallurgical and Materials Engineering"
+  ],
+  "faculty-of-law": [
+    "Private and Property Law",
+    "Public and International Law",
+    "Commercial and Industrial Law",
+    "Islamic Law"
+  ],
+  "faculty-of-arts": [
+    "English",
+    "History and International Studies",
+    "Philosophy",
+    "Linguistics",
+    "Religious Studies",
+    "Theatre Arts",
+    "Music"
+  ],
+  "faculty-of-social-sciences": [
+    "Economics",
+    "Political Science",
+    "Sociology",
+    "Psychology",
+    "Mass Communication",
+    "Geography",
+    "Social Work"
+  ],
+  "faculty-of-management-sciences": [
+    "Accounting",
+    "Banking and Finance",
+    "Business Administration",
+    "Marketing",
+    "Public Administration",
+    "Insurance"
+  ],
+  "faculty-of-agriculture": [
+    "Agricultural Economics",
+    "Animal Science",
+    "Crop Production",
+    "Soil Science",
+    "Fisheries and Aquaculture",
+    "Agronomy",
+    "Forestry and Wildlife Management"
+  ],
+  "faculty-of-health-sciences": [
+    "Nursing",
+    "Medical Laboratory Science",
+    "Public Health",
+    "Physiotherapy",
+    "Radiography",
+    "Anatomy",
+    "Physiology"
+  ]
+}
